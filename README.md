@@ -4,8 +4,8 @@ I have built a Calculator without using addition, subtraction, multiplication an
 It was only based on the `Addition.add()` function from the `addition` module.
 
 This Class have 4 methods, each for each operation:
-* Calculator.add()
-* Calculator.subtract()
-* Calculator.multiply()
-* Calculator.divide()
+* `Calculator.add()`
+* `Calculator.subtract()`
+* `Calculator.multiply()`
+* `Calculator.divide()`
 
